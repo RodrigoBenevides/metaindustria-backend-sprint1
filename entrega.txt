@@ -1,0 +1,12 @@
+Advanced Programming & Mobile Dev
+Sprint 1 - Backend
+
+Integrantes:
+Rodrigo Caruzzo Benevides - RM 554665
+Gustavo Demeis Peres - RM 555143
+Caio Tadeu Da Silva Faraleski - RM 558795
+Pedro Alvarez Certo - RM 554603
+Eduardo do Nascimento Souza - RM 558819
+
+Link do repositório backend:
+https://github.com/RodrigoBenevides/metaindustria-backend-sprint1
